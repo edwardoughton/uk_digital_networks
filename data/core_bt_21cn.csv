@@ -1,0 +1,86 @@
+node,area,OLO,inner,outer,metro
+Birmingham Central,Birmingham,CMCEN,1,0,1
+Bristol Redcliffe,Bristol,SSRED,1,0,1
+Cardiff,Cardiff / Newport,SWCFATE,1,0,1
+Glasgow Central,Glasgow / Clyde Valley,WSCEN,1,0,1
+Faraday TE (Morgate),London Central,CLFAR,1,0,1
+Stepney Green,London Docklands,CLSTE,1,0,1
+Leeds,Leeds,MYLS,1,0,1
+Dial House,Manchester,MRCEN,1,0,1
+Derby,Derby,EMDRRBB,0,1,1
+Glasgow Douglas,Glasgow / Clyde Valley,WSDOU,0,1,1
+Guildford,Guildford,THGI,0,1,1
+Southbank (Colombo House),London Central,WRSTHBK,0,1,1
+Colindale,London West,LWCOL,0,1,1
+Milton Keynes,Milton Keynes,SMBT,0,1,1
+Newcastle Central,Newcastle,NENT,0,1,1
+Peterborough,Peterborough,EMPETER,0,1,1
+Preston,Preston,STPRSTN,0,1,1
+Sheffield Cutler,Sheffield,SLSF,0,1,1
+Slough,Slough,THSL,0,1,1
+Wolverhampton Central,Wolverhampton,CMWV,0,1,1
+Aberdeen Central,Aberdeen,NSLNG,0,0,1
+Basingstoke(Bounty),Basingstoke,THBZ,0,0,1
+Belfast City,Belfast,None,0,0,1
+Belfast Seymour (Telephone House),Belfast,None,0,0,1
+Bishops Stortford,Bishops Stortford,EABIS,0,0,1
+Birmingham Midland,Birmingham,CMSMBK,0,0,1
+Erdington,Birmingham,CMERD,0,0,1
+Perryfields Bromsgrove,Birmingham,WMBPZ,0,0,1
+Brighton Hove (Hove ATE),Brighton,SDHV,0,0,1
+Bedminster,Bristol,SSBED,0,0,1
+Cambridge Trunk,Cambridge,EACAM,0,0,1
+Newport (Gwent),Cardiff / Newport,SWNE/EX,0,0,1
+Carlisle,Carlisle,LCCAR,0,0,1
+Chelmsford Town,Chelmsford,EACHE,0,0,1
+Coventry Greyfriar,Coventry,CMCGF,0,0,1
+Leamington Spa,Coventry,CMLGS,0,0,1
+Crawley,Crawley,SDCRWLY,0,0,1
+Croydon,Croydon,LSCRO,0,0,1
+Darlington,Darlington / Stockton / Middlesborough,NEDL,0,0,1
+Doncaster,Doncaster,SLDC,0,0,1
+Edinburgh (Donaldson TE),Edinburgh,ESDON,0,0,1
+Exeter,Exeter,WWEXTR,0,0,1
+Falkirk,Falkirk,ESFAL,0,0,1
+Gloucester,Gloucester,SSGLR,0,0,1
+Ipswich Town,Ipswich,EAIPS,0,0,1
+Colchester Town,Ipswich,EACOL,0,0,1
+Irvine,Irvine,WSIRV,0,0,1
+Kendal,Kendal,LCKEN,0,0,1
+Kingston,Kingston,LSKIN,0,0,1
+Covent garden,London Central,CLCOV,0,0,1
+BT Tower Westblock,London Central,WEWBLO,0,0,1
+South Kensington,London Central,WRSKEN,0,0,1
+Bermondsey,London Docklands,CLBER,0,0,1
+Kidbrooke,London East,LSKID,0,0,1
+Upton Park,London East,LNUPK,0,0,1
+Woodford,London East,LNWFD,0,0,1
+Hornchurch,London East,LNHOR,0,0,1
+Potters Bar,London North,LNPOT,0,0,1
+Ealing,London West,LWEAL,0,0,1
+Southall,London West,LWSOU,0,0,1
+Leicester,Leicester,EMCENTL,0,0,1
+Luton,Luton,SMLT,0,0,1
+Bradford,Leeds,MYBD,0,0,1
+Liverpool,Liverpool,LVCEN,0,0,1
+Maidstone,Maidstone,NDMAI,0,0,1
+Pendleton,Manchester,MRPEN,0,0,1
+Oldham,Manchester,MROLD,0,0,1
+Bolton,Manchester,LCBOL,0,0,1
+Nottingham,Nottingham,EMLONGB,0,0,1
+Northampton,Northampton,EMNORTH,0,0,1
+South Shields,Newcastle,NESS,0,0,1
+Oxford,Oxford,SMOF,0,0,1
+Cosham (Portsmouth Trunk),Portsmouth / Southampton,SDCSHM,0,0,1
+Southampton,Portsmouth / Southampton,STSOTON,0,0,1
+Bracknell,Reading,THBK,0,0,1
+Salisbury,Salisbury,STSALIS,0,0,1
+Chesterfield,Sheffield,SLCD,0,0,1
+High Wycombe,Slough,SMHY,0,0,1
+Stoke,Stoke,WMSTK,0,0,1
+Swindon,Swindon,SSSWN,0,0,1
+Ashton in Makerfield,Warrington,MRASH,0,0,1
+Northwich,Warrington,MRNOR,0,0,1
+Watford,Watford,LWWAT,0,0,1
+Walsall central,Wolverhampton,CMWL,0,0,1
+Malton,York,MYMAL,0,0,1
